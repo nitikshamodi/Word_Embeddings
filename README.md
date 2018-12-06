@@ -1,2 +1,2 @@
 # Word_Embeddings
-Open WordEmbeddings ipython notebook. <br> Folder _wepics_ contains images used in the notebook. <br> If the notebook does not load, download the entire folder and run the notebook on your system.  
+Kindly download the folder as the images are not loading in the ipython notebook 
